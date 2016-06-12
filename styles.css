@@ -133,6 +133,11 @@ article p {
    font-style: italic;
 }
 
+.call {
+	text-align: center;
+	font-size: 2.5em;
+}
+
 nav.pagenavigation {
 	margin-top: 1em;
 	text-align: center;
